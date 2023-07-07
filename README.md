@@ -31,4 +31,4 @@ The following tasks are illustrated in [`main.glm`](main.glm):
 
 # Next Lesson
 
-* [Lesson 5 - Running simultions over time](../../../lesson-5)
+* [Lesson 5 - Running simulations over time](../../../lesson-5)
